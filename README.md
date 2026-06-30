@@ -20,4 +20,4 @@ In my free time, I build personal projects — currently working on a cross-plat
 
 ---
 
-[LinkedIn](https://linkedin.com/in/pawelambicki) · ghorshy@protonmail.com
+[LinkedIn](https://linkedin.com/in/pawel-ambicki) · ghorshy@protonmail.com
