@@ -1,5 +1,5 @@
 # Hey 👋
-Software engineer with 4+ years of experience building web applications, primarily in the .NET stack (ASP.NET Core). On the frontend I work with Next.js and Blazor.
+Software engineer with 4+ years of experience building web applications, primarily in the .NET stack (ASP.NET Core). On the frontend I work mainly with React (Next.js / Tanstack Start) and Blazor.
 
 I've shipped both internal tools and high-traffic production systems serving thousands of users daily.
 
