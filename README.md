@@ -19,7 +19,7 @@ In my spare time I create personal projects — currently a cross-platform deskt
 - **[Multiplayer Game](https://github.com/ghorshy/multiplayer-game)** - Engineering thesis; real-time browser multiplayer game with hub-and-spoke architecture, Go WebSocket server deployed on GCP; Godot | Go | WebSockets | GCP
 - **[SharpSelecta](https://github.com/ghorshy/SharpSelecta)** - Cross-platform desktop music player, open source; C# | Avalonia
 - **OCH: Modern Authenticated Encryption** - Master's research project implementing the authenticated encryption scheme from Menda, Bellare, Hoang, Len, Ristenpart (ACM CCS 2025, Distinguished Paper Award); C | Cryptography
-- **Boomer Shooter** - Quake-inspired singleplayer FPS; sole developer for code, animations, graphics and audio; Godot | C#
+- **Boomer Shooter** - Quake-inspired singleplayer FPS; sole developer for code, animations, graphics and audio; Godot | C# | Blender | Trenchbroom
 
 **Tech Stack**
 
