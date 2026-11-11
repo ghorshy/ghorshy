@@ -23,7 +23,7 @@ Currently finishing my MSc in Computer Science at Wrocław University of Science
 
 - **Backend:** C# · ASP.NET Core · Entity Framework Core · PostgreSQL · SQL Server · RabbitMQ
 - **Frontend:** TypeScript · Next.js · React · Vue.js · Blazor  
-- **Other:** Docker · Linux · GCP · AWS · Python · Godot · Unity · Blender
+- **Other:** Docker · Linux · Rust · GCP · AWS · Python · Godot · Unity · Blender
 
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
