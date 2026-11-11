@@ -5,8 +5,6 @@ I've shipped both internal tools and high-traffic production systems serving tho
  
 Currently finishing my MSc in Computer Science at Wrocław University of Science and Technology. For my engineering thesis I built a real-time multiplayer browser game with Godot, Go, WebSockets, and GCP.
  
-In my spare time I create personal projects — currently a cross-platform desktop music player, indie games, and various dev tools. I love working on systems that need to be fast, reliable, and handle real-world pressure, which is why I also spend time on DevOps and cybersecurity.
- 
 ## What I work on
  
 - **Backend development** - REST & Minimal APIs in ASP.NET Core, Clean Architecture, Vertical Slice Architecture, Microservices, Entity Framework Core
@@ -29,11 +27,6 @@ In my spare time I create personal projects — currently a cross-platform deskt
 
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,vue,react,postgres,docker,linux,gcp,aws,py,godot,unity,blender" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,vue,react,postgres,docker,linux,rust,gcp,aws,py,godot,unity,blender" />
   </a>
 </div>
-
----
-
-[LinkedIn](https://www.linkedin.com/in/pawel-ambicki/) · ghorshy@protonmail.com
-
