@@ -1,15 +1,15 @@
 # Hey 👋
-Software engineer with 4+ years of experience building web applications, primarily in the .NET stack (ASP.NET Core). On the frontend I work mainly with React (Next.js / Tanstack Start) and occasionally Blazor.
+Software engineer building web applications, primarily in the modern .NET stack since 2022.
+
+On the frontend I work mainly with React (Next.js / Tanstack) and occasionally Blazor.
  
-I've shipped both internal tools and high-traffic production systems serving thousands of users daily.
- 
-Currently finishing my MSc in Computer Science at Wrocław University of Science and Technology. For my engineering thesis I built a real-time multiplayer browser game with Godot, Go, WebSockets, and GCP.
+Currently finishing my MSc in Computer Science at Wrocław University of Science and Technology.
  
 ## What I work on
  
 - **Backend development** - REST & Minimal APIs in ASP.NET Core, Clean Architecture, Vertical Slice Architecture, Microservices, Entity Framework Core
-- **Frontend development** - React (Next.js / TanStack Start) and Blazor
-- **DevOps & cloud** - Docker, CI/CD pipelines, AWS, GCP, Azure
+- **Frontend development** - React (Next.js / TanStack) and Blazor
+- **DevOps & cloud** - Docker, CI/CD pipelines (GitHub Actions, Gitlab CI/CD), AWS, GCP, Azure
 - **AI-assisted engineering** - Claude Code automations, custom skills/rules, MCP server integrations
 - **Applied cryptography & game dev** - research projects and indie games in my spare time
 ## Selected projects
@@ -27,6 +27,11 @@ Currently finishing my MSc in Computer Science at Wrocław University of Science
 
 <div style="text-align: center;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,vue,react,postgres,docker,linux,rust,gcp,aws,py,godot,unity,blender" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,nextjs,vue,react,postgres,docker" />
+  </a>
+</div>
+<div style="text-align: center;">
+ <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,rust,gcp,aws,py,godot,unity,blender" />
   </a>
 </div>
